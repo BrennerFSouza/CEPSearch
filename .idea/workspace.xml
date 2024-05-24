@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adc29cb7-e30b-4212-962c-f3e3ec9beb84" name="Changes" comment="CEPSearch finalized" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gsgMsiUaxk57wxXvGJcBK17fcg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Brenner/OneDrive - MINISTÉRIO DO TRABALHO E PREVIDÊNCIA/Estudos/Alura/Dev Backend Java Jr/dependencias/gson-2.10.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adc29cb7-e30b-4212-962c-f3e3ec9beb84" name="Changes" comment="" />
+      <created>1716491654692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716491654692</updated>
+      <workItem from="1716491655697" duration="6000" />
+      <workItem from="1716491706656" duration="35000" />
+      <workItem from="1716491758690" duration="244000" />
+      <workItem from="1716497582011" duration="313000" />
+      <workItem from="1716498230410" duration="53000" />
+      <workItem from="1716498313614" duration="127000" />
+      <workItem from="1716498449297" duration="47000" />
+      <workItem from="1716498501873" duration="79000" />
+      <workItem from="1716498647231" duration="207000" />
+      <workItem from="1716498864174" duration="124000" />
+      <workItem from="1716499042918" duration="23000" />
+      <workItem from="1716499086378" duration="43000" />
+      <workItem from="1716499148029" duration="88000" />
+      <workItem from="1716499257590" duration="271000" />
+      <workItem from="1716499670635" duration="245000" />
+      <workItem from="1716499970686" duration="170000" />
+      <workItem from="1716500173135" duration="133000" />
+      <workItem from="1716500314587" duration="308000" />
+      <workItem from="1716500658034" duration="116000" />
+      <workItem from="1716500797771" duration="33000" />
+      <workItem from="1716500850753" duration="3156000" />
+      <workItem from="1716508234278" duration="754000" />
+      <workItem from="1716509260983" duration="2449000" />
+    </task>
+    <task id="LOCAL-00001" summary="CEPSearch finalized">
+      <option name="closed" value="true" />
+      <created>1716511626010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716511626010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CEPSearch finalized" />
+    <option name="LAST_COMMIT_MESSAGE" value="CEPSearch finalized" />
+  </component>
+</project>
